@@ -1,0 +1,15 @@
+D:\Ahmed\ASP.NET\Web Api\Projects\E-Commerce\Infrastruct\bin\Debug\net8.0\Infrastruct.deps.json
+D:\Ahmed\ASP.NET\Web Api\Projects\E-Commerce\Infrastruct\bin\Debug\net8.0\Infrastruct.dll
+D:\Ahmed\ASP.NET\Web Api\Projects\E-Commerce\Infrastruct\bin\Debug\net8.0\Infrastruct.pdb
+D:\Ahmed\ASP.NET\Web Api\Projects\E-Commerce\Infrastruct\bin\Debug\net8.0\Core.dll
+D:\Ahmed\ASP.NET\Web Api\Projects\E-Commerce\Infrastruct\bin\Debug\net8.0\Core.pdb
+D:\Ahmed\ASP.NET\Web Api\Projects\E-Commerce\Infrastruct\obj\Debug\net8.0\Infrastruct.csproj.AssemblyReference.cache
+D:\Ahmed\ASP.NET\Web Api\Projects\E-Commerce\Infrastruct\obj\Debug\net8.0\Infrastruct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmed\ASP.NET\Web Api\Projects\E-Commerce\Infrastruct\obj\Debug\net8.0\Infrastruct.AssemblyInfoInputs.cache
+D:\Ahmed\ASP.NET\Web Api\Projects\E-Commerce\Infrastruct\obj\Debug\net8.0\Infrastruct.AssemblyInfo.cs
+D:\Ahmed\ASP.NET\Web Api\Projects\E-Commerce\Infrastruct\obj\Debug\net8.0\Infrastruct.csproj.CoreCompileInputs.cache
+D:\Ahmed\ASP.NET\Web Api\Projects\E-Commerce\Infrastruct\obj\Debug\net8.0\Infrastruct.csproj.CopyComplete
+D:\Ahmed\ASP.NET\Web Api\Projects\E-Commerce\Infrastruct\obj\Debug\net8.0\Infrastruct.dll
+D:\Ahmed\ASP.NET\Web Api\Projects\E-Commerce\Infrastruct\obj\Debug\net8.0\refint\Infrastruct.dll
+D:\Ahmed\ASP.NET\Web Api\Projects\E-Commerce\Infrastruct\obj\Debug\net8.0\Infrastruct.pdb
+D:\Ahmed\ASP.NET\Web Api\Projects\E-Commerce\Infrastruct\obj\Debug\net8.0\ref\Infrastruct.dll
